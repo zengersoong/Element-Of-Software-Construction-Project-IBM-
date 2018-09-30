@@ -1,4 +1,4 @@
-# Python Facial recognition project + Flask + Docker
+# Python Facial Recognition Library + Flask + Docker
 1. This project contains the code written for the project by Zenger Cy.  
 2. This is done to present the possibilites of hosting third party libraries on flask web server with docker.  
 3. The images are send via Android application.  
