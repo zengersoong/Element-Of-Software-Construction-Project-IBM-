@@ -7,7 +7,8 @@
 
 
 
-
+### Part of iMMe Project group . 
+1. https://github.com/SanPersie/iMMe
 
 ### Facial recognition Libraries used and thanks to:  
 1. https://github.com/ageitgey/face_recognition
